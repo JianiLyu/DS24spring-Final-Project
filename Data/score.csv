@@ -1,0 +1,244 @@
+﻿Name,Walk Score,Transit Score,Bike Score,Population
+Little Italy,100,100,94,3749
+NoLita,100,100,94,6464
+Bowery,100,100,96,16702
+Union Square,100,100,92,7810
+Flatiron District,100,100,91,4579
+Chinatown,100,100,94,13724
+NoHo,100,100,95,3123
+Gramercy Park,100,100,94,18635
+Greenwich Village,100,100,95,34531
+Financial District,100,100,85,27033
+West Village,100,100,95,34359
+SoHo,99,100,95,11276
+Civic Center,99,100,90,5279
+NoMad,99,100,89,8137
+Koreatown,99,100,86,1910
+Tribeca,99,100,90,17068
+Midtown East,99,100,78,49976
+Kips Bay,99,100,89,39246
+Chelsea,99,100,95,52598
+Murray Hill,99,100,81,22249
+Theater District,99,100,88,13170
+Upper East Side,99,100,81,208013
+Hell's Kitchen,99,100,91,51840
+Brooklyn Heights,98,100,85,20560
+DUMBO,98,100,86,3006
+Two Bridges,98,100,93,28930
+Boerum Hill,98,100,95,22518
+East Village,98,99,98,60375
+Upper West Side,98,100,83,208776
+Prospect Heights,98,100,92,21765
+Garment District,98,100,88,5963
+Park Slope,98,100,89,61508
+Clinton Hill,97,99,95,25887
+Cobble Hill,97,100,95,8605
+Fort Greene,97,100,93,20297
+Central Harlem,97,100,75,111094
+Battery Park City,97,100,84,12258
+Elmhurst,97,100,75,101918
+Downtown Brooklyn,97,100,92,11077
+Carroll Gardens,97,96,95,18514
+West Harlem,97,100,73,107403
+Gowanus,96,100,90,5661
+Inwood,96,98,68,38367
+Williamsburg,96,97,88,138526
+East Harlem,96,100,80,118829
+Lower East Side,96,98,96,38641
+Washington Heights,96,100,72,158951
+Greenpoint,96,78,91,34569
+Fordham Heights,96,100,60,49896
+Stuyvesant Town - Peter Cooper Village,95,100,95,21268
+Long Island City,95,94,82,71414
+Bushwick,95,98,84,113629
+Belmont,95,93,61,23890
+Ridgewood,95,92,73,64765
+Sunset Park,95,96,74,100989
+Parkchester,95,93,57,40412
+Marble Hill,95,93,54,10180
+Woodside,95,99,69,55051
+Brighton Beach,95,86,66,30166
+Longwood,94,100,76,20337
+Corona,94,88,77,109607
+Rego Park,94,98,66,60946
+Concourse,94,100,69,54406
+Concourse Village,94,100,66,29727
+Astoria,94,86,75,153924
+Foxhurst,94,100,77,19644
+Crown Heights,94,100,85,125818
+Bedford-Stuyvesant,94,97,79,153040
+East Tremont,94,97,67,16991
+Bay Ridge,94,88,74,79177
+Jackson Heights,94,91,79,108979
+South Bronx,94,99,75,74207
+Fordham Manor,94,100,59,49585
+Kensington,93,94,85,49617
+Vinegar Hill,93,100,92,4630
+Greenwood Heights,93,100,73,18878
+Flatbush,93,99,79,167618
+Kew Gardens,93,99,57,26367
+Norwood,93,100,70,39735
+Bensonhurst,93,87,58,77932
+Mount Hope,93,100,66,30381
+Westchester Village,93,88,68,15332
+Mount Eden,92,100,62,24005
+Forest Hills,92,95,59,51010
+Kingsbridge,92,98,57,50354
+Richmond Hill,91,87,53,65905
+Borough Park,91,89,63,115327
+Highbridge,91,99,60,38495
+Pelham Parkway,91,91,79,22492
+Bedford Park,91,100,71,26304
+Woodstock,91,100,71,19048
+Windsor Terrace,91,95,81,14446
+Red Hook,90,74,96,10225
+University Heights,90,100,56,35552
+Sheepshead Bay,90,82,65,121807
+Van Nest,90,93,74,13918
+Mapleton,90,93,59,26579
+Unionport,90,86,60,23914
+Woodhaven,89,77,53,36877
+Dyker Heights,89,86,59,37264
+Flushing,89,84,65,172447
+Pelham Bay,89,87,76,24885
+Bath Beach,89,75,70,33061
+Jamaica Hills,89,100,53,12700
+West Farms,89,96,68,29710
+Morrisania,88,97,70,51768
+Utopia,88,70,60,1494
+Midwood,88,91,69,73615
+Ozone Park,88,83,55,39572
+Gravesend,88,94,69,100536
+Allerton,88,90,74,59555
+Hunts Point,88,91,67,12200
+East Elmhurst,87,73,79,22443
+Morris Park,87,83,73,16410
+Flatlands,87,84,60,65242
+Brownsville,87,100,73,55788
+Jamaica,87,95,53,89810
+Crotona Park East,87,100,73,29987
+Cypress Hills,87,87,63,42692
+Port Richmond,87,66,52,15465
+East Flatbush,86,90,63,130788
+Briarwood,86,98,57,27884
+Maspeth,85,77,58,56058
+Kew Gardens Hills,85,75,70,35329
+Glendale,85,71,70,31104
+Ocean Hill,85,100,65,27565
+Pomonok,85,72,72,16458
+Middle Village,85,73,61,29125
+Jamaica Estates,84,92,43,14139
+East New York,84,93,66,142173
+Morris Heights,83,100,61,40713
+Marine Park,83,80,63,21034
+Williamsbridge,83,88,72,31788
+Woodlawn Heights,83,78,49,7406
+Wakefield,82,86,62,54956
+Port Morris,82,81,78,992
+Clason Point,82,84,64,92935
+South Ozone Park,81,73,51,68783
+St. George,81,76,52,7741
+Hillcrest,81,76,65,17394
+Fresh Meadows,81,68,61,16304
+Floral Park,80,60,60,12130
+Pelham Gardens,80,80,65,14859
+Auburndale,80,67,54,31417
+Tompkinsville,80,72,38,8383
+Baychester,80,81,53,14525
+Bronx Park,79,95,74,1581
+Roosevelt Island,79,98,77,11608
+Clearview,78,52,57,8031
+Forest Park,78,78,46,4374
+Riverdale,78,75,43,43830
+Little Neck,77,57,44,10216
+Coney Island,77,81,63,44763
+Westerleigh,77,60,47,22157
+College Point,77,58,46,26415
+Randall Manor,77,58,42,2036
+Edenwald,76,74,67,21096
+Eastchester,76,78,52,6715
+Stapleton,76,69,62,11469
+West Brighton,76,62,54,23986
+Rosebank,76,67,51,11111
+Hollis,75,78,50,38274
+St. Albans,75,71,52,42290
+Canarsie,74,78,56,82503
+Bellerose,74,66,58,22089
+South Jamaica,74,64,52,30821
+Castleton Corners,74,61,46,3403
+Bayside,74,63,56,71348
+Laurelton,74,63,53,23893
+New Dorp,74,68,53,9709
+Queens Village,73,74,54,56540
+Manhattan Beach,72,72,58,6532
+Van Cortlandt Park,72,82,51,524
+Grant City,72,71,61,4974
+Elm Park,72,61,46,4594
+South Beach,71,65,61,13647
+Cambria Heights,71,61,53,16159
+Whitestone,71,56,48,30448
+Rochdale,70,72,49,24666
+Castle Hill,70,66,72,14730
+Graniteville,70,62,49,11295
+Howard Beach,69,67,61,26240
+Mill Basin,69,70,57,11885
+Country Club,69,67,48,4522
+Bergen Beach,69,73,56,13098
+Holliswood,69,77,39,8048
+Bulls Head,68,59,63,13820
+Grasmere,68,73,44,5993
+Dongan Hills,68,68,53,13852
+Rockaway Beach,67,67,65,35942
+Far Rockaway,66,70,61,76523
+Throgs Neck,66,53,46,33641
+New Brighton,65,66,41,10494
+Blissville,65,74,61,613
+Gerritsen Beach,65,58,64,7199
+Great Kills,64,60,48,27953
+Co-Op City,64,79,63,35450
+Glen Oaks,64,58,50,12540
+Arrochar,63,70,54,550
+Manor Heights,63,54,36,7495
+New Dorp Beach,63,63,61,6298
+Concord,63,70,43,7293
+Tottenville,62,56,46,14635
+Alley Park,61,56,57,547
+Springfield Gardens,61,66,52,8826
+Eltingville,61,64,45,22910
+Douglaston,60,54,39,14120
+Rosedale,60,59,55,26160
+Pleasant Plains,60,55,43,3603
+Clifton,59,68,56,9661
+Silver Lake,59,60,35,2805
+Bay Terrace,59,65,53,4457
+Midland Beach,58,62,63,8667
+Emerson Hill,57,59,32,5387
+Sunnyside,57,62,46,4822
+Richmond Town,56,52,47,2489
+Fort Wadsworth,56,65,58,2376
+City Island,54,37,45,4307
+Mariners Harbor,54,57,44,15325
+Travis - Chelsea,53,45,45,2948
+Spencer Estates,52,75,44,3578
+Oakwood,52,63,54,11991
+Rossville,51,44,42,9847
+Grymes Hill,50,64,34,5252
+New Springville,48,58,55,20741
+Annadale,48,56,40,10021
+Brookville,48,64,59,9830
+Fort Hamilton,47,65,64,763
+Prince's Bay,44,56,50,6342
+Huguenot,43,54,41,8671
+Bloomfield,43,56,45,513
+Willowbrook,43,52,38,9688
+Arden Heights,43,45,35,10460
+Broad Channel,43,76,53,2412
+Ocean Breeze,42,59,59,2626
+Woodrow,40,47,46,10780
+Todt Hill,39,56,26,2003
+Charleston,39,44,34,2002
+Lighthouse Hill,37,47,27,1766
+Sea Gate,36,46,41,4638
+Greenridge,33,59,32,9021
+Randalls-Wards Island,21,71,57,1625
+Rikers Island,2,34,22,10681
