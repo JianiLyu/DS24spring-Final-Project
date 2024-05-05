@@ -1,1 +1,1 @@
-Hello, this is our semester-long final project for ADS class. 
+This is our semester-long final project for Applied Data Science class at NYU Tandon. 
